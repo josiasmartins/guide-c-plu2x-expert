@@ -2,7 +2,8 @@
 guide c++ to expert
 
 
-Sintaxe e semântica básica do C++: compreender a estrutura e a sintaxe do idioma, incluindo declarações, expressões, tipos de dados, operadores e fluxo de controle.
+## Sintaxe e semântica básica do C++: 
+compreender a estrutura e a sintaxe do idioma, incluindo declarações, expressões, tipos de dados, operadores e fluxo de controle.
 
 Orientação a objetos em C++: aprender sobre classes, objetos, herança, polimorfismo, encapsulamento, construtores, destrutores e acesso a membros.
 
