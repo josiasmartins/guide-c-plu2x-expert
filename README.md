@@ -2,7 +2,7 @@
 guide c++ to expert
 
 ## Comandos para executar o arquivos:
-g++ <nome-arquivo> -o <nome-gerado>
+g++ nome-arquivo -o nome-gerado
 
 
 ## Sintaxe e semântica básica do C++: 
