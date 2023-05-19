@@ -1,6 +1,9 @@
 # guide-c-plu2x-expert
 guide c++ to expert
 
+## Comandos para executar o arquivos:
+g++ nome-arquivo -o nome-gerado
+
 
 ## Sintaxe e semântica básica do C++: 
 compreender a estrutura e a sintaxe do idioma, incluindo declarações, expressões, tipos de dados, operadores e fluxo de controle.
