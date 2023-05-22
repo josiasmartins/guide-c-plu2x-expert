@@ -1,3 +1,15 @@
+# Guia de C++ para Especialistas
+
+Este é um guia abrangente para se tornar um especialista em C++. Aqui você encontrará informações e recursos que o ajudarão a compreender e dominar a linguagem, desde os conceitos básicos até os tópicos avançados.
+
+## Comandos para Executar os Arquivos
+
+Para compilar e executar um arquivo em C++, utilize o seguinte comando:
+
+```bash
+g++ nome-arquivo.cpp -o nome-gerado
+
+
 # guide-c-plu2x-expert
 guide c++ to expert
 
