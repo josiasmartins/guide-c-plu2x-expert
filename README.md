@@ -8,7 +8,7 @@ Para compilar e executar um arquivo em C++, utilize o seguinte comando:
 
 ```bash
 g++ nome-arquivo.cpp -o nome-gerado
-´´´
+````
 
 # guide-c-plu2x-expert
 guide c++ to expert
